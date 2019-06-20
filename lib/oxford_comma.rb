@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  array.length = "element"
+  array.length = 1
 end
 
 
